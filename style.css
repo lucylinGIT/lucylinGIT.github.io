@@ -36,9 +36,9 @@ h2 {
 	color: #7D7D6F
 }
 .row{
-	text-align: center;
-	margin-top: 100px;
-	margin-bottom: 100px;
+	content: "";
+	display: table;
+	clear: both;
 }
 .column{
 	text-align: center;
