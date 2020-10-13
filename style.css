@@ -3,8 +3,9 @@ body {
 }
 
 h1 {
+	bakcground-color: #FFFFFD
 	color:  ;
 	text-align: center ;
 	font-family: "Courier New", Courier, monospace  ;
-	font-size: 25px;
+	font-size: 35px;
 }
