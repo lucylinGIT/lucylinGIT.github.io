@@ -22,4 +22,6 @@ h1 {
 }
 h2 {
 	border-style: dotted;
+	border-width: thick;
+	border-color: #FFFFFD;
 }
