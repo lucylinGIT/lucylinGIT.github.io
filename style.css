@@ -48,6 +48,14 @@ h2 {
 	margin-top: 25px;
 	margin-bottom: 25px;
 }
+.gallery {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.lastgallery {
+	float: center;
+}
 img {
 	border-radius: 30%;
 	border: 2em;
