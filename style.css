@@ -11,6 +11,17 @@ h1 {
 	text-align: center ;
 	font-size: 35px;
 }
+span {
+	border-style: dotted;
+	border-radius: 25px;
+	border-width: thick;
+	border-color: bisque;
+	border-top-width: 5px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
 p {
 	font-family: "Courier New", Courier, monospace;
 	color: #7D7D6F;
@@ -41,17 +52,6 @@ img {
 	border-radius: 30%;
 	border: 2em;
 	border-color: bisque;
-}
-span {
-	border-style: dotted;
-	border-radius: 25px;
-	border-width: thick;
-	border-color: bisque;
-	border-top-width: 5px;
-	padding-top: 5px;
-	padding-right: 10px;
-	padding-bottom: 5px;
-	padding-left: 10px;
 }
 a {
 	text-decoration: none;
