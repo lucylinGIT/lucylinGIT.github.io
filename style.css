@@ -11,6 +11,8 @@ h1 {
 	font-family: "Courier New", Courier, monospace  ;
 	font-size: 35px;
 }
+.row{
+	text-align: center;
 .column {
 	float: left;
 	border-radius: 25px
