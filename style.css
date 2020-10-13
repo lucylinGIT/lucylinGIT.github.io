@@ -38,10 +38,7 @@ h2 {
 	margin-bottom: 50px;
 }
 img {
-	border-radius: 8px;
-}
-img {
-	border-radius: 50%;
+	border-radius: 30%;
 }
 span {
 	border-style: dotted;
