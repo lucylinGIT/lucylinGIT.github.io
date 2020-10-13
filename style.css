@@ -20,7 +20,7 @@ h1 {
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
-.span {
+span {
 	border-style: dotted;
 	border-radius: 25px;
 	border-width: thick;
