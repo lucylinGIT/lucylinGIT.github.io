@@ -39,6 +39,8 @@ h2 {
 }
 img {
 	border-radius: 30%;
+	border: 2em;
+	border-color: bisque;
 }
 span {
 	border-style: dotted;
