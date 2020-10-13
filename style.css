@@ -13,9 +13,12 @@ h1 {
 }
 p {
 	font-family: "Courier New", Courier, monospace;
+	color: #7D7D6F;
+}
+p2 {
+	font-family: "Courier New", Courier, monospace;
 	color: #9B9B88;
 }
-	
 h2 {
 	color: #7D7D6F
 }
