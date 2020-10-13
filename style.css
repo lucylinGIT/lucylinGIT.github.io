@@ -37,6 +37,12 @@ h2 {
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+img {
+	border-radius: 8px;
+}
+img {
+	border-radius: 50%;
+}
 span {
 	border-style: dotted;
 	border-radius: 25px;
