@@ -13,8 +13,11 @@ h1 {
 }
 .row{
 	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.column{
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
-
 	
