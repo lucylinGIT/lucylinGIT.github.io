@@ -1,5 +1,6 @@
 body {
 	background-color: #F6FEF6 ;
+	font-family: "Courier New", Courier, monospace  ;
 }
 
 h1 {
@@ -8,8 +9,10 @@ h1 {
 	padding: 20px;
 	color: #54544B ;
 	text-align: center ;
-	font-family: "Courier New", Courier, monospace  ;
 	font-size: 35px;
+}
+h2 {
+	color: #7D7D6F
 }
 .row{
 	text-align: center;
