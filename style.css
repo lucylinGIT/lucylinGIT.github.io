@@ -20,8 +20,8 @@ h1 {
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
-h2 {
+span {
 	border-style: dotted;
 	border-width: thick;
-	border-color: #FFFFFD;
+	border-color:  #FFFFFD;
 }
