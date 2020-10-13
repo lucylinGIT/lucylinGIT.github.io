@@ -3,7 +3,9 @@ body {
 }
 
 h1 {
-	bakcground-color: #FFFFFD
+	border-radius: 25px;
+	bakcground: #FFFFFD;
+	padding: 20px;
 	color: #54544B ;
 	text-align: center ;
 	font-family: "Courier New", Courier, monospace  ;
