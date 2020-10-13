@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+	box-sizing: border-box
 	bakcground-color: #FFFFFD
 	color:  ;
 	text-align: center ;
