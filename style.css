@@ -55,7 +55,7 @@ h2 {
 	clear: both;
 }
 .lastgallery {
-	float: center;
+	text-align: center;
 }
 img {
 	border-radius: 30%;
