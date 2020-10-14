@@ -35,11 +35,6 @@ p2 {
 h2 {
 	color: #7D7D6F
 }
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
-}
 .column{
 	text-align: center;
 	margin-top: 50px;
@@ -53,6 +48,11 @@ h2 {
 	float: left;
 	width: 100%;
 	text-align: center;
+}
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
 }
 .lastgallery {
 	float: center;
