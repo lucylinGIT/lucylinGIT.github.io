@@ -67,6 +67,8 @@ img {
 	margin-bottom: 50px;
 }
 .caption {
+	border-radius: 25px;
+	background-color: #FFFFFD;
 	margin-top: 20px;
 	margin-bottom: 20px;
 a {
