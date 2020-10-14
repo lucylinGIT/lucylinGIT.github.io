@@ -57,6 +57,10 @@ h2 {
 .lastgallery {
 	text-align: center;
 }
+.caption {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
 img {
 	border-radius: 30%;
 	border: 2em;
