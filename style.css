@@ -35,7 +35,7 @@ p2 {
 h2 {
 	color: #7D7D6F
 }
-.row{
+.row:after {
 	content: "";
 	display: table;
 	clear: both;
