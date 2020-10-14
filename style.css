@@ -35,6 +35,11 @@ p2 {
 h2 {
 	color: #7D7D6F
 }
+img {
+	border-radius: 30%;
+	border: 2em;
+	border-color: bisque;
+}
 .column{
 	text-align: center;
 	margin-top: 50px;
@@ -64,11 +69,7 @@ h2 {
 .caption {
 
 	
-img {
-	border-radius: 30%;
-	border: 2em;
-	border-color: bisque;
-}
+
 a {
 	text-decoration: none;
 }
