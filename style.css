@@ -37,10 +37,6 @@ p2 {
 h2 {
 	color: #7D7D6F
 }
-img {
-	max-width: 100%;
-	height: auto;
-}
 .column{
 	text-align: center;
 	margin-top: 50px;
@@ -51,6 +47,8 @@ img {
 	margin-bottom: 25px;
 }
 .gallery {
+	max-width: 100%;
+	height: auto;
 	border-radius: 30%;
 	float: left;
 	width: 50%;
