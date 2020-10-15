@@ -38,9 +38,8 @@ h2 {
 	color: #7D7D6F
 }
 img {
-	border-radius: 30%;
-	border: 2em;
-	border-color: bisque;
+	max-width: 100%;
+	height: auto;
 }
 .column{
 	text-align: center;
