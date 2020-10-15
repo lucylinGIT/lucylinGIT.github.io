@@ -1,22 +1,22 @@
-body {
+body {    /* the general bakcground colour and i wanted something with serifs  */
 	background-color: #F6FEF6 ;
-	font-family: "Courier New", Courier, monospace  ;
+	font-family: "Courier New", Courier, monospace  ;   /* i set the default font */
 }
-a {
+a {    /* This takes away the blue underline in my hyperlinked pages on the index page. Looks better this way */
 	text-decoration: none;
 }
-h1 {
-	border-radius: 25px;
+h1 {    /* This heading will span the entire top of page and be in large text. I wanted to add sbit more character to it so i put in a rounded background to 'contain' the words */
+	border-radius: 25px;   /* this rounds the corners */
 	background-color: #FFFFFD;
 	padding: 20px;
 	color: #54544B ;
 	text-align: center ;
 	font-size: 35px;
 }
-span {
-	border-style: dotted;
-	border-radius: 25px;
-	border-width: thick;
+span {   /* I used this to highlight any words that i wanted to empahsize. In this case, i emphasized the two different page links and also the last photo caption in my personal page */
+	border-style: dotted;  /* This makes the border a series of dots rather than a continuous line */
+	border-radius: 25px;  /* This rounds the corners so that it looks more cohesive with the rouded heading background */
+	border-width: thick;   /* i used this to make the dots larger and thus standing out more */
 	border-color: bisque;
 	border-top-width: 5px;
 	padding-top: 5px;
@@ -37,12 +37,12 @@ p2 {
 h2 {
 	color: #7D7D6F
 }
-.column{
+.column{    /* I used this to centre the elements within their column and set a margin so that they did not look squished */
 	text-align: center;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
-.map {
+.map {   /* This sets the margins for the map class but since the img tag comes later and therefor will be the style that is shown, i left out the radius and responsivity attributes */
 	margin-top: 25px;
 	margin-bottom: 25px;
 }
@@ -57,7 +57,7 @@ img {
 	border-radius: 30%;
 	height: auto;
 }
-.row:after {
+.row:after {   /* This helps me create the two columns  */
 	content: "";
 	display: table;
 	clear: both;
@@ -68,7 +68,7 @@ img {
 	text-align: center;
 	margin-bottom: 50px;
 }
-.caption {
+.caption {   /* i wanted the captions to pop out mroe and add some fun elements so i created a sharp background shape */
 	border-radius: 60%;
 	background-color: #FCFCEC;
 	margin-top: 20px;
