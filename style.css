@@ -6,10 +6,10 @@ a {    /* This takes away the blue underline in my hyperlinked pages on the inde
 	text-decoration: none;
 }
 h1 {    /* This heading will span the entire top of page and be in large text. I wanted to add sbit more character to it so i put in a rounded background to 'contain' the words */
-	border-radius: 25px;   /* this rounds the corners */
+	border-radius: 1em;   /* this rounds the corners */
 	background-color: #FFFFFD;
 	display: block;
-	padding: 20px;
+	padding: 1em;
 	color: #54544B ;
 	text-align: center ;
 	font-size: 2em;
@@ -17,7 +17,7 @@ h1 {    /* This heading will span the entire top of page and be in large text. I
 }
 span {   /* I used this to highlight any words that i wanted to empahsize. In this case, i emphasized the two different page links and also the last photo caption in my personal page */
 	border-style: dotted;  /* This makes the border a series of dots rather than a continuous line */
-	border-radius: 25px;  /* This rounds the corners so that it looks more cohesive with the rouded heading background */
+	border-radius: 1em;  /* This rounds the corners so that it looks more cohesive with the rouded heading background */
 	border-width: thick;   /* i used this to make the dots larger and thus standing out more */
 	border-color: bisque;
 	border-top-width: 5px;
@@ -46,8 +46,8 @@ h2 {
 }
 .column{    /* I used this to centre the elements within their column and set a margin so that they did not look squished */
 	text-align: center;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 3em;
+	margin-bottom: 3em;
 }
 .map {   /* This sets the margins for the map class but since the img tag comes later and therefor will be the style that is shown, i left out the radius and responsivity attributes */
 	margin-top: 25px;
@@ -61,7 +61,7 @@ h2 {
 }
 img {
 	max-width: 100%;
-	border-radius: 30%;
+	border-radius: 4em;
 	height: auto;
 }
 .row:after {   /* This helps me create the two columns  */
@@ -71,7 +71,7 @@ img {
 }
 .lastgallery {
 	margin-top: 20px;
-	border-radius: 30%;
+	border-radius: 4em;
 	text-align: center;
 	margin-bottom: 50px;
 }
