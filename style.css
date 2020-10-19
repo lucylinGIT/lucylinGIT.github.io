@@ -30,7 +30,7 @@ p {
 	font-family: "Courier New", Courier, monospace;
 	color: #7D7D6F;
 	font-size: 1.1em;
-	display: inline-block;
+	display: block;
 	margin-block-start: auto;
 	margin-block-end: auto;
 	margin-bottom: 1em;
