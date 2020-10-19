@@ -8,10 +8,12 @@ a {    /* This takes away the blue underline in my hyperlinked pages on the inde
 h1 {    /* This heading will span the entire top of page and be in large text. I wanted to add sbit more character to it so i put in a rounded background to 'contain' the words */
 	border-radius: 25px;   /* this rounds the corners */
 	background-color: #FFFFFD;
+	display: block;
 	padding: 20px;
 	color: #54544B ;
 	text-align: center ;
-	font-size: 35px;
+	font-size: 2em;
+	font-weight: bold;
 }
 span {   /* I used this to highlight any words that i wanted to empahsize. In this case, i emphasized the two different page links and also the last photo caption in my personal page */
 	border-style: dotted;  /* This makes the border a series of dots rather than a continuous line */
@@ -28,6 +30,11 @@ p {
 	font-family: "Courier New", Courier, monospace;
 	color: #7D7D6F;
 	font-size: 1.1em;
+	display: inline-block;
+	margin-block-start: auto;
+	margin-block-end: auto;
+	margin-bottom: 1em;
+	margin-top: 1em;
 }
 p2 {
 	font-family: "Courier New", Courier, monospace;
